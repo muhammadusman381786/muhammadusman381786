@@ -23,19 +23,19 @@
 <tr>
 <td width="55%" valign="top">
 
-```yaml
-name: Muhammad Usman
-role: Data Science Student
-university: FAST-NUCES
-focus:
-  - Machine Learning
-  - Deep Learning
-  - Data Analysis & Visualization
-  - Python & SQL Development
-mindset: "Curious by default, disciplined by choice"
-currently: Building models & sharpening ML fundamentals
-fun_fact: Believes every dataset has a story worth telling
-```
+> 🎓 &nbsp;**Data Science Student** at **FAST-NUCES**
+
+&nbsp;
+
+🔭 &nbsp;Focused on **Machine Learning**, **Deep Learning**, and **Data Analysis & Visualization**
+
+🐍 &nbsp;Builds with **Python** & **SQL**
+
+💡 &nbsp;*"Curious by default, disciplined by choice"*
+
+🚀 &nbsp;Currently building models & sharpening ML fundamentals
+
+✨ &nbsp;Believes every dataset has a story worth telling
 
 </td>
 <td width="45%" align="center">
