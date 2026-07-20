@@ -40,7 +40,7 @@
 </td>
 <td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="320"/>
+<img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="320"/>
 
 </td>
 </tr>
