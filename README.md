@@ -21,7 +21,7 @@
 
 <table align="center">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 name: Muhammad Usman
@@ -38,11 +38,9 @@ fun_fact: Believes every dataset has a story worth telling
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/hero.svg" width="0" height="0"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="320"/>
 
 </td>
 </tr>
@@ -54,7 +52,7 @@ fun_fact: Believes every dataset has a story worth telling
 
 ### 🧠 Core Toolkit
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch,sklearn,pandas,numpy,jupyter,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,r,mysql,tensorflow,pytorch,sklearn,anaconda,latex,git,github,vscode&theme=dark" />
 
 </div>
 
