@@ -99,12 +99,12 @@
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammadusman381786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=muhammadusman381786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadusman381786&theme=tokyonight&hide_border=true&background=0F2027&stroke=00C9A7&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhammadusman381786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&text_color=c9d1d9" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammadusman381786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&text_color=c9d1d9" width="48%"/>
 
 </div>
 
@@ -114,7 +114,7 @@
 
 ### 📉 Contribution Graph
 
-<img src="https://activity-graph.herokuapp.com/graph?username=muhammadusman381786&theme=tokyo-night&bg_color=0F2027&color=00C9A7&line=00C9A7&point=ffffff&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadusman381786&theme=tokyo-night&bg_color=0F2027&color=00C9A7&line=00C9A7&point=ffffff&hide_border=true" width="90%"/>
 
 </div>
 
